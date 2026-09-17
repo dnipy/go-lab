@@ -317,8 +317,8 @@ External dependencies should be introduced when they provide meaningful value ra
 - [x] Functions
 - [x] Structs
 - [x] Methods
-- [ ] Pointers
-- [ ] Slices & Maps
+- [x] Pointers
+- [x] Slices & Maps
 - [ ] Interfaces
 - [ ] Errors
 - [ ] Generics
